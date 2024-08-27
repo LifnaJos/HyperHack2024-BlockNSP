@@ -3,7 +3,8 @@ HyperHack 2024 is a Hyperledger based hackathon organized by Hyperledger India C
 ## Project Title : **Blockchain based National Scholarship Portal**
 - Team : **BlockNSP**
 - Reference Code : **HH24_030**
-- Mentor : [**Mr. Amit_ Chandra**](https://www.linkedin.com/in/amitchandra13/)
+- Skill set used : **Hyperledger, Smart contract, Postgre, Go Lang, Docker**
+## Mentor : [**Mr. Amit_ Chandra**](https://www.linkedin.com/in/amitchandra13/)
 ## Team Members :
   - [**Lifna C S**](https://www.linkedin.com/in/lifna-c-s-94015678/) (Conceptualization, Methodology, Drafting Presentation, Supervision, Validation, Coding - review & editing)
   - [**Asmi Rajbhar**](https://www.linkedin.com/in/asmi-rajbhar-818613239/) (Methodology, Software, Drafting Presentation, Coding – original draft, Coding– review & editing)
