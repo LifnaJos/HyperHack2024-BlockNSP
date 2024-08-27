@@ -24,4 +24,7 @@ This project aims to enhance the National Scholarship Portal (NSP) in India by i
 - Secondly, we are thankful to our mentor [**Mr. Amit Chandra**](https://www.linkedin.com/in/amitchandra13/), Blockchain Expert in e-Governance for sharing his valuable time in guiding us in fine tuning our methodology and presentation for pitching our idea in this hackathon.
 - Thirdly, the promptness of [**Anasuya Threse Innocent**](https://www.linkedin.com/in/anasuyathrese/) madam from the organizing team of **Hyperledger India Chapter** is commendable. 
 - Last, but not the least Our team was indeed a wonderful team with mutual understanding and each one had taken the responsibilty to present the idea within the stipulated time. 
-- [Old Github Repo](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal)
+
+## References
+- [Original Github Repo](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal)
+- [Research Paper](https://github.com/LifnaJos/Blockchain-based-National-Scholarship-Portal/blob/Phase-1-Intelligent-Scholarship-Disbursement-Module-for-NSP-(2016-17)/ISDM_NSP_Paper.pdf)
