@@ -17,7 +17,7 @@ This project aims to enhance the National Scholarship Portal (NSP) in India by i
 ## Project Documents
 - Presenttion :  [Link to PPT]()
 - Demo Video : [Link to YouTube Video](https://youtu.be/UsxJwS-7ASI)
-- Code : [Link to Code]()
+- Code : [Link to Code](https://github.com/LifnaJos/HyperHack2024-BlockNSP/tree/main/code)
 
 ## Acknowledgments
 Firstly, we would like to express our sincere gratitude to the organizers of Hyperledger India Chapter for organizing **HyperHack 2024** in the virtual mode. It gave us a trigger to pitch our idea based on Hyperledger Fabric Platform. Secondly, we are thankful to our mentor [**Mr. Amit Chandra**](https://www.linkedin.com/in/amitchandra13/), Blockchain Expert in e-Governance for sharing his valuable time in guiding us in fine tuning our methodology and presentation for pitching our idea in this hackathon. Last, but not the least the promptness of [**Anasuya Threse Innocent**](https://www.linkedin.com/in/anasuyathrese/) madam from the organizing team of **Hyperledger India Chapter** is commendable. 
